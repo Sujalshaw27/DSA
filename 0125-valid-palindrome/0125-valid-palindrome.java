@@ -5,13 +5,12 @@ class Solution {
         s = s.replaceAll("[^a-z0-9]", "");
         int i =0;
         int n = s.length();
-        int j = s.length()-1;
         
         for(i = 0; i<n/2; i++){
-            if(s.charAt(i)!=s.charAt(j)){
+            if(s.charAt(i)!=s.charAt(n-1-i)){
                 return false;
             }
-            j--;
+        
             
         }
         return true;     
