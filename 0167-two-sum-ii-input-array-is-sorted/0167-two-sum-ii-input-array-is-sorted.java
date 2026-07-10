@@ -4,17 +4,15 @@ class Solution {
         int l = 0;
         int r = numbers.length-1;
         int sum;
-        int[] res = new int[2];
+       
         ArrayList<Integer> arr = new ArrayList<>();
         while(l<r){
             sum = numbers[l] + numbers[r];
             if(sum == target){
-                arr.add(l+1);
-                arr.add(r+1);
                 
-                res[0] = arr.get(0);
-                res[1] = arr.get(1);
-                return res;
+                return new int[]{l+1, r+1};
+                
+                
             }
             else if( sum < target){
                 l++;
@@ -23,7 +21,7 @@ class Solution {
                 r--;
             }
         }
-        return res;
+        return new int[] {-1,-1};
         
     }
 }
