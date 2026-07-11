@@ -10,16 +10,13 @@ class Solution {
                 set.remove(nums[left]);
                 sum-=nums[left];
                 left++;
-            
             }
         sum += nums[right];
        set.add(nums[right]);
         if(set.size()==k){
-
                 maxi = Math.max(maxi,sum);
         }
     }
     return maxi;
-}
-
+    }
 }
