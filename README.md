@@ -11,6 +11,7 @@
 | [0011-container-with-most-water](https://github.com/Sujalshaw27/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujalshaw27/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujalshaw27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sujalshaw27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sujalshaw27/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujalshaw27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sujalshaw27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -41,5 +43,10 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujalshaw27/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sujalshaw27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sujalshaw27/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sujalshaw27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
