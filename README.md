@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujalshaw27/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Sujalshaw27/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sujalshaw27/DSA/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sujalshaw27/DSA/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sujalshaw27/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
