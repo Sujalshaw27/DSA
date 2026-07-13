@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sujalshaw27/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujalshaw27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujalshaw27/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Sujalshaw27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Sujalshaw27/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sujalshaw27/DSA/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sujalshaw27/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujalshaw27/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/Sujalshaw27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sujalshaw27/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujalshaw27/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Sujalshaw27/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sujalshaw27/DSA/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
