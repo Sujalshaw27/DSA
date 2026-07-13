@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujalshaw27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujalshaw27/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Sujalshaw27/DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Sujalshaw27/DSA/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sujalshaw27/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujalshaw27/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Sujalshaw27/DSA/tree/master/0724-find-pivot-index) |
 ## Matrix
 |  |
 | ------- |
