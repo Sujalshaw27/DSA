@@ -12,6 +12,7 @@
 | [0011-container-with-most-water](https://github.com/Sujalshaw27/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujalshaw27/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sujalshaw27/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Sujalshaw27/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Sujalshaw27/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sujalshaw27/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujalshaw27/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sujalshaw27/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sujalshaw27/DSA/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sujalshaw27/DSA/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Sujalshaw27/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
